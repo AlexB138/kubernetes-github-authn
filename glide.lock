@@ -37,7 +37,7 @@ imports:
   subpackages:
   - proto
 - name: github.com/google/go-github
-  version: 12363ffc10018c93407ebf303040586d55957271
+  version: 1acce21133844d0cf407f7f0b2461d450a9402fa
   subpackages:
   - github
 - name: github.com/google/go-querystring
